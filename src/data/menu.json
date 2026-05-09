@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {
+      "name": "Breakfast",
+      "items": [
+        {
+          "id": 1,
+          "name": "Masala Dosa",
+          "price": "₹120",
+          "image": "/images/dishes/dosa.jpg",
+          "description": "Crispy dosa stuffed with potato masala."
+        },
+        {
+          "id": 2,
+          "name": "Idli Sambar",
+          "price": "₹80",
+          "image": "/images/dishes/idli.jpg",
+          "description": "Soft idlis served with flavorful sambar."
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "items": [
+        {
+          "id": 10,
+          "name": "Filter Coffee",
+          "price": "₹40",
+          "image": "/images/dishes/coffee.jpg",
+          "description": "Authentic South Indian filter coffee."
+        }
+      ]
+    }
+  ]
+}
