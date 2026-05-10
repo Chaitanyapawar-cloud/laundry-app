@@ -19,6 +19,14 @@ export default function About() {
 
           <div>
             <p className="leading-8 text-gray-600">
+              I am Dilip Marathe, Proprietor and owner of
+              Shree Swami Samarth Services, a trusted name in
+              Housekeeping Services to industries and companies
+              over years. Laundry services is our new service 
+              from past 2 years.
+            </p>
+
+            <p className="mt-4 leading-8 text-gray-600">
               We provide reliable and hygienic laundry,
               ironing, steam pressing, and dry-cleaning
               services using industrial-grade washing and
@@ -27,7 +35,7 @@ export default function About() {
               and affordable pricing.
             </p>
 
-            <p className="mt-6 leading-8 text-gray-600">
+            <p className="mt-4 leading-8 text-gray-600">
               Our facility is equipped with heavy-duty
               laundry machines, high-pressure steam
               ironing systems, and professional cleaning
